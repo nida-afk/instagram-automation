@@ -28,7 +28,7 @@ python downloadposts.py
 ### Details
 - **Authentication**: Logs in using Instagram credentials
 - **Functionality**:
-  - Fetches up to 10 liked posts from the authenticated user's account
+  - Fetches up to 1000 liked posts from the authenticated user's account
   - Displays post ID, caption text, and post URL
   - Downloads each post to a specified folder
 - **Output**: Downloaded photos saved to `folder_path` directory
