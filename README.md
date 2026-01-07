@@ -1,5 +1,3 @@
-# instagram-automation
-automation of features using python snippets!
 # Instagram Post Management Tools
 
 A collection of Python scripts for interacting with Instagram using the `instagrapi` library. These tools allow you to download, analyze, and manage Instagram posts.
