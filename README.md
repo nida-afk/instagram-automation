@@ -18,7 +18,7 @@ A collection of Python scripts for interacting with Instagram using the `instagr
 Instagram Liked Posts Downloader
 
 ### Description
-This script logs into an Instagram account and downloads the user's liked posts to a local folder. It retrieves up to 10 liked posts and downloads each post with its metadata (post ID, caption, and URL).
+This script logs into an Instagram account and downloads the user's liked posts to a local folder. It retrieves up to 1000 liked posts and downloads each post with its metadata (post ID, caption, and URL).
 
 ### Usage
 ```python
