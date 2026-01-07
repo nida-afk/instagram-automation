@@ -71,7 +71,7 @@ This script automates the process of saving liked posts to the user's Instagram 
 
 ### Usage
 ```python
-python batchbookmarking.py.py
+python batchbookmarking.py
 ```
 
 ### Details
